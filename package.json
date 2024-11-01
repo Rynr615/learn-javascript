@@ -1,0 +1,9 @@
+{
+    "name": "belajar-jsht",
+    "version": "1",
+    "scripts": {
+        "runHello": "node day1/script.js",
+        "runAngka": "node day1/angka.js",
+        "runText":  "node day1/string.js"
+    }
+}
