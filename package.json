@@ -5,6 +5,7 @@
         "runHello": "node day1/script.js",
         "runAngka": "node day1/angka.js",
         "runText":  "node day1/string.js",
-        "runVar":  "node day2/variable.js"
+        "runVar":  "node day2/variable.js",
+        "runWhile":  "node day3/perulangan.js"
     }
 }
