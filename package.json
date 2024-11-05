@@ -8,6 +8,7 @@
         "runVar":  "node day2/variable.js",
         "runWhile":  "node day3/perulangan.js",
         "runIfElse":  "node day4/kondisi.js",
-        "runFunction":  "node day4/function.js"
+        "runFunction":  "node day4/function.js",
+        "runFunc":  "node day5/func.js"
     }
 }
